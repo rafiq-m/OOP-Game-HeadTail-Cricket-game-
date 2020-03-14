@@ -1,0 +1,43 @@
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\bin\Debug\HeadTail.exe.config
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\bin\Debug\HeadTail.exe
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\bin\Debug\HeadTail.pdb
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.Form1.resources
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.Form2.resources
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.Properties.Resources.resources
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.GenerateResource.cache
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.CoreCompileInputs.cache
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.exe
+C:\Users\Rafiq\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.pdb
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\bin\Debug\HeadTail.exe.config
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\bin\Debug\HeadTail.exe
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\bin\Debug\HeadTail.pdb
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.csprojAssemblyReference.cache
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.Form1.resources
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.Form2.resources
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.Properties.Resources.resources
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.GenerateResource.cache
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.csproj.CoreCompileInputs.cache
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.exe
+C:\Users\Raheel Ubaid Ali\Desktop\HeadTail\HeadTail\obj\Debug\HeadTail.pdb
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\bin\Debug\HeadTail.exe.config
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\bin\Debug\HeadTail.exe
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\bin\Debug\HeadTail.pdb
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.Form1.resources
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.Form2.resources
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.Properties.Resources.resources
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.exe
+C:\Users\HP\Desktop\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.pdb
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\bin\Debug\HeadTail.exe.config
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\bin\Debug\HeadTail.exe
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\bin\Debug\HeadTail.pdb
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.Form1.resources
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.Form2.resources
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.Properties.Resources.resources
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.exe
+C:\Users\HP\Downloads\HeadTail - Copy\HeadTail\obj\Debug\HeadTail.pdb
